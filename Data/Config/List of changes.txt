@@ -1,0 +1,171 @@
+
+
+
+Desolation mod:
+- Require 25% more XP to level. <(Progression)>
+- Living Off The Land only unlocks seed crafting and makes farm plots cheaper to craft. <(Progression)>
+- You can craft Snowberry seeds (without perk), can be planted on most ground types. Yields 2 berries per harvest. <(Recipe/Block)>
+- Lowered ranks of Salvage Operations, Miner 69'er, Motherlode, and Pack Mule to 4 ranks. Huntsman to 2 ranks. <(Progression)>
+- Removed XP penalty when increasing ranks in salvage operations, motherlode and buffs that increase yield. <(Progression)>
+- Adjusted Salvage Operations, increased attack speed and lowered stamina drain. <(Progression)>
+- Renamed Charismatic Nature to Survival Instinct, affects only perked character now. <(Progression)>
+- Removed Hackers Candy. (Harvesting an engine and getting 2 engines made no sense). <(Trader)>
+- Increased wild zombie spawns. Twice the spawns, Triple the respawn rate. <(Spawning)>
+- Zombies give 25% less XP. <(EntityClasses)>
+- Animals give ~60%-75% less resources. <(EntityClasses)>
+- You now start with Mineral Water, Steak & Potato, Firstaid Bandage, Painkiller, Herbal Antibiotics and a Flashlight. <(EntityClasses)>
+- Dying gives a 40% XP debt and you retain your food level. Gamestage lowers by 5 instead of 2. <(EntityClasses/Gamestage)>
+- You retain all debuffs when dying, including infection. Dying from infection will cure you of infection. <(Buff)>
+- Very hungry and starving has a penalty to stamina regen and movement speed, starving also reduces attributes by one. <(Buff)>
+- Stages of hunger and thirst now increase at 60%, 30% and 10%.
+- Survival Instinct passive affects balanced for single character. <(Buffs)>
+- Traders sell price 500%, buy price 10%. Vending machines 150%. <(Trader)>
+- Traders no longer sell Tier 3 weapons, tools and armour. <(Trader)>
+- Traders sell 40-60% less quantity of materials and other items normally sold in bulk. <(Trader)>
+- Barter items: Cigar, SugarButts and Awesome Sauce give half their bonus. <()>
+- Traders restock every 7 days instead of 3. Vending machines restock every 7 days. <(Trader)>
+- Vending machines hold more items to compensate restock frequency. <(Trader)>
+- Traders open an hour earlier. <(Trader)>   *NEW*
+- Harvesting and salvaging gives 60%-75% less resources. <(Blocks)>
+- Mining ores resources reduced by 68%, trees by 60%. <(Blocks)>
+- Hitting a loose stone gives you 2 stones instead of 1. <(Blocks)>
+- Trees take 50% longer and crops take twice as long to grow. <(Blocks)>
+- Upgrading blocks cost 20% more. <(Blocks)>
+- Increased prices for electrical traps. <(Blocks)>
+- Reduced chance to harvest engines and batteries. <(Blocks)>
+- Spike traps are cheaper to craft, repair and upgrade. <(Blocks)>
+- Rebalanced resources from salvaging safes. <(Blocks)>
+- Sandbags now give 12 sand instead of 2. <(Blocks)>
+- Surface boulders give mining resources. <(Blocks)>
+- 67% less ammo in loot. <(Loot)>
+- 60%-75% less quantity in loot. <(Loot)>
+- Quest reward ammo and explosives reduced by 40%. <(Loot)>
+- 20% less chance of eggs in nests. <(Loot)>
+- Removed boiled water and fresh food from loot, 5% chance of dysentery from boiled water. <(Loot/Items)>
+- Food piles less likely to give drinks. <(Loot)>
+- Less medical items in loot, rare even rarer. <(Loot)>
+- Common recipes cost more (Usually 1-3 ingredients affected). <(Recipes)>
+- Rebalanced Gunpowder crafting. 750 Coal+Nitrate now crafts 500/750/1000 Gunpowder by Hand/Chemistry/Stack. <(Recipes)>
+- Rebalanced Gas and Oil crafting to be less abundant. <(Recipes)>
+- Repair Kits also require Oil and Mechanical Part to craft. <(Recipes)>
+- Contact grenades has the same recipe as regular grenades. <(Recipes)>
+- Added gunpowder to junk turret ammo (batch of 5). <(Recipes)>
+- You can craft stone arrows and bolts into feathers. <(Recipes)>
+- You can craft Snowberry Cocktails. <(Recipes/Items)>
+- Padded and Scrap armour uses Duct Tape for repairs. <(Items)>
+- Yucca smoothie keeps you cool in the heat. Sounds logical!
+- Chainsaw base entity damage doubled from 6 to 12. Did someone say Doomguy? <(Items)>
+- Balanced canned food prices and food value. <(Items)>
+- Balanced medical items prices. <(Items)>
+- Engine and Nailgun scrap for 15 mechanical parts. <(Items)>
+- Clothing scraps for less cloth and leather. <(Items)>
+- Reading books and schematics now give XP relative to their economic value. <(Items)>
+- Returned scrapping value of metal tools, weapons and armour back default value. <(Items)>
+- Increased scrap value for books. Also gives extra time to cancel accidental scrapping. <(Items)>
+- Baseball bat scraps to iron instead of wood. <(Items)>
+- You can no longer scrap drinks, canned food, medical items and high value items. <(Items)>
+- Increased value of High Performance Running Shoes. <(Items)>
+- Lowered zombie attack range by 10%. <(Items)>
+- Increased stack size of Radiators to 20. <(Items)>
+- Increased stack size of Dukes to 50,000. <(Items)>
+- Cooking recipes that require canned food now give a temporary attribute buff. <(Items/Buffs)>
+- Lowered Gamestage multiplier from 1.2 to 1.0 <(Gamestage)>
+- Removed the Stay Within requirement for trader quests.
+- Advancing to the next quest tier requires 2 more completed quests.
+
+Changes from v1.14 to v1.15:
+- Rebalanced a few recipes.
+- Surface boulders now give some mining resources.
+- Advancing to the next quest tier requires 12 completed quests instead of 10.
+- Cooking recipes that require canned food now give a temporary attribute buff.
+Gumbo Stew (Intellect), Shepard's Pie (Strength), Spaghetti (Agility), Tuna Fish Gravy Toast, (Perception).
+
+Changes from v1.15 to v1.15.1:
+- Lowered Duke stack to 25k, large stacks cause chunk reset.
+- Sham Chowder is now Tier 4 food, rebalanced recipe and food value.
+
+Changes from v1.15.1 to v1.16
+- Changed icon of Love Letter
+- Dishong (Skyscraper_01) is now a Tier 6 quest location
+- Added Spencer Mansion POI, a Tier 6 quest location, spawns only once. (must use nitrogen to spawn, or manually place yourself in world editor)
+- Tier 6 quest rewards Tier 3 items, Quality 4-6.
+
+You'll need to manually spawn the Spencer Mansion in your current game. Take note of where you HAVEN'T been in your world,
+then open your map in the world editor. Find a large flat area 120 W/E x 90 N/S. With the Digger dev tool, dig down 30 metres,
+press Z while pointing at the botton of the hole, press K to open a menu and select DynamicPrefabs, scroll down until you find
+Resident Evil Mansion. Select it, then press Load into Prefab. Make sure the area of the spawn looks satisfying for you. Then save.
+
+
+
+
+Welcome to 7 Years To DIE Survivor (Desolate Interloper Exile Survivor) 
+
+It's the year 2041, 7 years since the zombie outbreak began. You used to belong to a thriving community of survivors,
+you fell in love with the person of your dreams and they also fell in love with you.
+But unfortunately, someone got jealous of your new found relationship. And so they set you up and you were found guilty to a serious crime,
+one which you never committed. And you've been sentenced to 365 days of exile and left for dead in a farout land, mostly desserted.
+Luckily for you though, your love interest managed to sneak in some supplies in your backpack before you were knocked out and dumped.
+Your love help you keep fighting to live another day, someday you hope to see them again and start a new life together once you've served your punishment.
+You secretly seek revenge on the person who framed you.
+
+
+Changes for Just Die Already Edition:
+
+
+
+
+
+DONE:
+Added small chance of feral day spawns (5%).
+Added small chance of radiated night spawns (5%).
+Added zombie variety in the snow biome.
+Increased zombies spawns during horde nights (+20%).
+Added recipes to dismantle regular ammo.
+Increased zombie loot despawn time by 10 mins.
+Doubled animal corpse despawn time from 5 to 10 minutes.
+Lowered gas in loot and harvest.
+Lowered harvest on animals by 25%.
+Increased entity health by 20%.
+lowered ammo in loot.
+Increased Tier 2 tool/weapon damage by 20% (excludes sledge and fists).
+Nerfed snowberry farming.
+Increased vending machine prices to 200%.
+Corn bread/cob and baked potato unlocked.
+Lowered quest reward quantity by 1/3.
+Bullet proof glass repairs with broken glass.
+Added painkiller to FA kit x2, FA kit cures concussion.
+Lowered huntsman perk to 1 rank.
+Added diamond blade trap. Lasts 2.4x longer, deals 20% more dmg.
+Buffed serrated blade, 100% bleed chance.
+Chainsaw can use serrated blade.
+Machete can use weighted head.
+Reenabled Blessed Metal mod, rare loot, increases base damage to zombies by 15%.
+Increased stack size of cobble/concrete to 1200.
+Added bucket of water to concrete mix recipe (300).
+Added starting Primitive Quality 4 weapon and 1 related perk point from love letter.
+Lowered most common loot containers to spawn 1 loot.
+Lowered grass spawned in world by 70%.
+Lowered chance of corn harvest from wild crop (75% chance of getting 1 corn).
+Lowered loot chance on acid and sewing kits by 25%.
+Lowered harvest book bonus for honey and acid by 25%.
+Lowered harvest of cobble, cement, bricks by 25%.
+Lowered harvest on mining resources and trees by 25%.
+Lowered chance of rare resources, mech parts, electric parts, engines, batteries by 20%.
+Lowered harvest book bonus for honey and acid by 25%.
+Rebalanced quest rewards so they aren't so over powered (needs testing).
+Bird nests respawn after 15 real hours.
+Added super corn meal and bread, added to tier 4 recipe ingredients.
+Lower casino coin rewards from quests by 25%.
+Doubled casino coin bonus from daring adventurer.
+Removed challenge notes from loot.
+Lowered wild crops in the world by approx 33%. aloe, yucca, cotton, chrysanthemum, snowberry.
+Increased stick chance for iron arrows/bolts and steel arrows/bolts.
+Increased impact damage for flaming arrows/bolts.
+Increased explosion damage for explosive arrows/bolts.
+Increased inventory size to 50 slots, added 1 extra crafting queue slot.
+Lowered starting carry from 27 to 20.
+Pack mule has 5 ranks again, each rank gives 5 carry.
+Vending machines restock monthly instead of weekly.
+Increased container size of gun safe and hardened chest, added hardened chest recipe.
+Get 1 less weapon/tool part from scrapping.
+Added a second seat for the motorcycle and gyrocopter.

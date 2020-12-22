@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Servers>
+
+       <ServerGroup Name="7 Years To DIE Survivor" Logo="" Description="">
+
+               <Server Name="Just Die Already Edition" Logo="">
+
+                       <Description>An overhaul vanilla mod for veteran players who find pure vanilla too easy and are seeking a challenge with the vanilla feel. This overhaul mod adds survival that is lacking in the game.
+
+			**This version is even tougher than the Survivalist Version**
+
+			Recommended settings:
+			Warrior, Run during the day, No loot respawn, 24 blood moon count, Airdrops weekly.
+
+			- More wild zombie spawns.
+			- Slower progression to extend the live of a world to 100+ days.
+			- Farming is nerfed so the struggle for food extends to mid game.
+			- Less ammo, food and quantity in loot, less resources when mining and harvesting ores/blocks.
+			- Economy rebalanced so you won't be swimming in dukes and make thoughtful decisions when buying.
+			- A Single Player reworking of the Charismatic Nature perk. (Survival Instinct)
+			- Dying has a harsher consequence, retaining debuffs and hunger, etc.
+			- And much more!
+			***Added the Spencer Mansion (Resident Evil) a Tier 6 quest***
+			***You MUST use Nitrogen and download the supporting file (link below) for it to spawn in your world***
+			***Or place manually in your existing world to avoid restarting***
+
+
+			Full list of changes can be found here: https://community.7daystodie.com/topic/22254-7-years-to-die-survivor-desolate-interloper-exile-survivor-v116-a193/
+
+
+                       </Description>
+
+                       <DownloadMode>Clone</DownloadMode>
+
+                       <SubscriptionLink></SubscriptionLink>
+
+                       <Version>A19.3</Version>
+
+                       <ReleaseNotes/>
+
+                       <Downloads>
+
+                       <Download>https://github.com/Frantic-Dan/7-Years-To-DIE-Survivor</Download>
+
+                 </Downloads>
+
+               </Server>
+
+       </ServerGroup>
+
+</Servers>
