@@ -169,3 +169,4 @@ Vending machines restock monthly instead of weekly.
 Increased container size of gun safe and hardened chest, added hardened chest recipe.
 Get 1 less weapon/tool part from scrapping.
 Added a second seat for the motorcycle and gyrocopter.
+Slightly increased storage size of vehicles.
