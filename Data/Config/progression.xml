@@ -1807,7 +1807,7 @@
 	<perk name="perkNightStalkerThiefAdrenaline" parent="skillNightStalker" max_level="1" base_skill_point_cost="0" desc_key="perkNightStalkerThiefAdrenalineDesc" long_desc_key="perkNightStalkerThiefAdrenalineLongDesc">
 		<effect_group>
 			<requirement name="IsNight"/>
-				<passive_effect name="CarryCapacity" operation="base_add" level="1" value="27"/>
+				<passive_effect name="CarryCapacity" operation="base_add" level="1" value="30"/>
 		</effect_group>
 	</perk>
 
