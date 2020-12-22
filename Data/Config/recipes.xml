@@ -3271,7 +3271,7 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 </recipe>
 
 <recipe name="sandbagBlockVariantHelper" count="1">
-	<ingredient name="resourceCrushedSand" count="4"/>
+	<ingredient name="resourceCrushedSand" count="10"/>
 	<ingredient name="resourceCloth" count="2"/>
 </recipe>
 
