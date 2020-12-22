@@ -152,7 +152,7 @@ Lowered harvest of cobble, cement, bricks by 25%.
 Lowered harvest on mining resources and trees by 25%.
 Lowered chance of rare resources, mech parts, electric parts, engines, batteries by 20%.
 Lowered harvest book bonus for honey and acid by 25%.
-Rebalanced quest rewards so they aren't so over powered (needs testing).
+Rebalanced quest rewards so they aren't so over powered.
 Bird nests respawn after 15 real hours.
 Added super corn meal and bread, added to tier 4 recipe ingredients.
 Lower casino coin rewards from quests by 25%.
