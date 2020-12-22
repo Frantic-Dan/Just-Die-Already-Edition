@@ -17,16 +17,17 @@
 			- Slower progression to extend the live of a world to 100+ days.
 			- Farming is nerfed so the struggle for food extends to mid game.
 			- Less ammo, food and quantity in loot, less resources when mining and harvesting ores/blocks.
-			- Economy rebalanced so you won't be swimming in dukes and make thoughtful decisions when buying.
-			- A Single Player reworking of the Charismatic Nature perk. (Survival Instinct)
+			- Economy rebalanced so you won't be swimming in dukes as easily and have to make thoughtful decisions when buying.
+			- A Single Player version of the Charismatic Nature perk. (Survival Instinct)
 			- Dying has a harsher consequence, retaining debuffs and hunger, etc.
 			- And much more!
 			***Added the Spencer Mansion (Resident Evil) a Tier 6 quest***
-			***You MUST use Nitrogen and download the supporting file (link below) for it to spawn in your world***
-			***Or place manually in your existing world to avoid restarting***
+			***You MUST use Nitrogen World Generator and download the supporting file (link below) for it to spawn in your world***
 
 
-			Full list of changes can be found here: https://community.7daystodie.com/topic/22254-7-years-to-die-survivor-desolate-interloper-exile-survivor-v116-a193/
+			Full list of changes can be found at the bottom of the List of Changes document.
+			For the original changes, and the file for Nitrogen, go here:
+			https://community.7daystodie.com/topic/22254-7-years-to-die-survivor-desolate-interloper-exile-survivor-v116-a193/
 
 
                        </Description>
@@ -41,7 +42,7 @@
 
                        <Downloads>
 
-                       <Download>https://github.com/Frantic-Dan/7-Years-To-DIE-Survivor</Download>
+                       <Download>https://github.com/Frantic-Dan/Just-Die-Already-Edition</Download>
 
                  </Downloads>
 
