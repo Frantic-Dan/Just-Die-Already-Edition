@@ -1449,7 +1449,7 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 <recipe name="foodTunaFishGravyToast" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable">
 	<ingredient name="foodCanTuna" count="3"/>
 	<ingredient name="Super Corn Meal" count="2"/>
-	<ingredient name="Super Corn Bread" count="2"/>
+	<ingredient name="Super Corn Bread" count="1"/>
 	<ingredient name="resourceAnimalFat" count="4"/>
 	<ingredient name="foodCanPeas" count="2"/>
 	<effect_group>
