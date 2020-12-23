@@ -418,21 +418,21 @@
 		</effect_group>
 	</perk>
 
-	<perk name="perkPenetrator" max_level="4" parent="skillPerceptionGeneral" name_key="perkPenetratorName" desc_key="perkPenetratorDesc" icon="ui_game_symbol_paint_copy_block">
-		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="4" desc_key="reqPerceptionLevel04"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="6" desc_key="reqPerceptionLevel06"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="8" desc_key="reqPerceptionLevel08"/></level_requirements>
+	<perk name="perkPenetrator" max_level="3" parent="skillPerceptionGeneral" name_key="perkPenetratorName" desc_key="perkPenetratorDesc" icon="ui_game_symbol_paint_copy_block">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="4" desc_key="reqPerceptionLevel04"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="6" desc_key="reqPerceptionLevel06"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="8" desc_key="reqPerceptionLevel08"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="9" desc_key="reqPerceptionLevel09"/></level_requirements>
 		<effect_group>
-			<passive_effect name="TargetArmor" operation="perc_add" level="1,2,3,4" value="-.15,-.25,-.35,-.35" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkPenetrator,perkArchery,perkJavelinMaster"/>
+			<passive_effect name="TargetArmor" operation="perc_add" level="1,2,3,4" value="-.25,-.35,-.35,-.35" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkPenetrator,perkArchery,perkJavelinMaster"/>
 
 			<!-- Note: the 1 penetration effect is on <item name="ammo762mmBulletAP"> and other AP bullets -->
-			<passive_effect name="EntityPenetrationCount" operation="perc_add" level="2,4" value="1,3" tags="perkDeadEye"/>
+			<passive_effect name="EntityPenetrationCount" operation="perc_add" level="1,3" value="1,3" tags="perkDeadEye"/>
 			<!--	All AP ammo has 1 penetration -->
 
-			<effect_description level="1" desc_key="perkPenetratorRank1Desc" long_desc_key="perkPenetratorRank1LongDesc"/>
-			<effect_description level="2" desc_key="perkPenetratorRank2Desc" long_desc_key="perkPenetratorRank2LongDesc"/>
-			<effect_description level="3" desc_key="perkPenetratorRank3Desc" long_desc_key="perkPenetratorRank3LongDesc"/>
+			<effect_description level="1" desc_key="perkPenetratorRank1Desc" long_desc_key="perkPenetratorRank2LongDesc"/>
+			<effect_description level="2" desc_key="perkPenetratorRank2Desc" long_desc_key="perkPenetratorRank3LongDesc"/>
+			<effect_description level="3" desc_key="perkPenetratorRank3Desc" long_desc_key="perkPenetratorRank4LongDesc"/>
 			<effect_description level="4" desc_key="perkPenetratorRank4Desc" long_desc_key="perkPenetratorRank4LongDesc"/>
 		</effect_group>
 	</perk>
