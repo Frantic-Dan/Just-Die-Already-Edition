@@ -135,6 +135,7 @@ Lowered quest reward quantity by 1/3.
 Bullet proof glass repairs with broken glass.
 Added painkiller to FA kit x2, FA kit cures concussion.
 Lowered huntsman perk to 1 rank.
+Due to armour bug in 19, I've lowered Penetrator perk to 3 ranks, removing the useless rank 1.
 Added diamond blade trap. Lasts 2.4x longer, deals 20% more dmg.
 Buffed serrated blade, 100% bleed chance.
 Chainsaw can use serrated blade.
@@ -170,3 +171,4 @@ Increased container size of gun safe and hardened chest, added hardened chest re
 Get 1 less weapon/tool part from scrapping.
 Added a second seat for the motorcycle and gyrocopter.
 Slightly increased storage size of vehicles.
+Removed caged boar spawns in Grace's mansion.
