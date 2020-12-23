@@ -134,7 +134,7 @@ Mesh files no longer used:
 	</property>
 	<effect_group name="meleeToolRepairT0TazasStoneAxe">
 		<passive_effect name="EntityDamage" operation="base_set" value="8" tags="perkMiner69r"/>
-		<passive_effect name="BlockDamage" operation="base_set" value="22.6" tags="perkMiner69r"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="30" tags="perkMiner69r"/>
 		<passive_effect name="AttacksPerMinute" operation="base_set" value="105" tags="perkMiner69r,axe"/>
 		<passive_effect name="StaminaLoss" operation="base_set" value="9" tags="primary"/>
 		<passive_effect name="DegradationMax" operation="base_set" value="120,375" tier="1,6" tags="perkMiner69r"/>
