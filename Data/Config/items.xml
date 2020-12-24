@@ -14113,8 +14113,8 @@ perkNightStalkerSilentNight
 		<requirement name="NotHasBuff" buff="buffIsOnFire"/>
 			<display_value name="dBartering" value=".1"/>
 			<display_value name="dDuration" value="180"/>
-			<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffGrandpasAwesomeSauceDuration" operation="add" value="183"/>
-			<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffGrandpasAwesomeSauceDuration" operation="set" value="543">
+			<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffGrandpasAwesomeSauceDuration" operation="add" value="303"/>
+			<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffGrandpasAwesomeSauceDuration" operation="set" value="903">
 				<requirement name="CVarCompare" cvar="$buffGrandpasAwesomeSauceDuration" operation="GT" value="543"/></triggered_effect>
 			<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffDrunkGrandpasAwesomeSauce"/>
 	</effect_group>
