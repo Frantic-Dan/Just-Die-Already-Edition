@@ -2434,8 +2434,8 @@ The overall plan for loot distribution:
 </lootgroup>
 
 <lootgroup name="electricalDevices">
-	<item name="resourceElectricParts" count="2,4" prob="1"/>
-	<item name="resourceElectricParts" count="2,4" prob="0.5"/>
+	<item name="resourceElectricParts" count="1,2" prob="1"/>
+	<item name="resourceElectricParts" count="1,2" prob="0.5"/>
 	<item name="generatorbank" prob="1"/>
 	<item name="batterybank" prob="0.7"/>
 	<item name="pressureplate" count="1,3" prob="1.0"/>
@@ -4629,7 +4629,7 @@ treasureTemplate
 	<item group="electricalDevices" prob="10"/>
 	<item group="schematicsElectrical" prob="10"/>
 	<item name="meleeToolWireTool" prob="1"/>
-	<item name="resourceElectricParts" count="2,3" prob="50"/>
+	<item name="resourceElectricParts" count="1,2" prob="50"/>
 </lootcontainer>
 
 <!-- clothes shelf, shirts -->
