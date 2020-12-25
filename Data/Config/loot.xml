@@ -3465,7 +3465,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 <lootgroup name="groupQuestMedical">
 	<item name="drugVitamins" count="2" prob="1.5"/>
 	<item name="medicalFirstAidBandage" count="4" prob="1.5"/>
-	<item name="medicalFirstAidKit" count="2" prob="1.5"/>
+	<item name="medicalFirstAidKit" count="1" prob="1.5"/>
 	<item name="drugAntibiotics" count="1" prob="1.5"/>
 	<item name="drugHerbalAntibiotics" count="2" prob="1.5"/>
 	<item name="drugSteroids" count="3" loot_prob_template="QuestT2Prob"/>
