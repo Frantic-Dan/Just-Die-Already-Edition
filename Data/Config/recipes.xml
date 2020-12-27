@@ -1267,7 +1267,7 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="foodRawMeat" count="5"/>
 	<ingredient name="foodEgg" count="1"/>
 	<effect_group>
-		<passive_effect name="CraftingIngredientCount" level="4,5" operation="base_add" value="-2" tags="foodRawMeat"/>
+		<passive_effect name="CraftingIngredientCount" level="4,5" operation="base_add" value="-1" tags="foodRawMeat"/>
 	</effect_group>
 </recipe>
 
