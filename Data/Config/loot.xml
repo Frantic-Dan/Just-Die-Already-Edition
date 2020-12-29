@@ -1424,7 +1424,7 @@ The overall plan for loot distribution:
 <lootgroup name="groupAllArmor/Cloth">
 	<item group="groupApparelClothes"/>
 	<item group="groupArmorScaled" prob="0.18"/>
-	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="1" prob="0.015"/>
+	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="0.2" prob="0.015"/>
 </lootgroup>
 
 <lootgroup name="trophyGroup">
@@ -3059,7 +3059,7 @@ The overall plan for loot distribution:
 	<item name="gunHandgunPistolAdmin"/>
 	<item name="meleeToolHammerOfGodAdmin"/>
 -->
-	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="1"/>
+	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="0.2"/>
 	<item name="apparelCoatLeatherDuster" mods="dye" mod_chance="0"/>
 	<item name="gunBowT3CompoundBow"/>
 	<item name="ammoArrowSteelAP" count="500"/>
@@ -3432,9 +3432,9 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 	<item name="armorLeatherPants"/>
 	<item name="armorLeatherChest"/>
 	<item name="armorLeatherGloves"/>
-	<item name="armorLeatherHood" mods="modArmorHelmetLight" mod_chance=".2"/>
+	<item name="armorLeatherHood" mods="modArmorHelmetLight" mod_chance="0"/>
 	<item name="armorIronGloves"/>
-	<item name="armorIronHelmet" mods="modArmorHelmetLight" mod_chance=".2"/>
+	<item name="armorIronHelmet" mods="modArmorHelmetLight" mod_chance="0"/>
 	<item name="armorIronBoots"/>
 	<item name="armorIronLegs"/>
 	<item name="armorIronChest"/>
@@ -3452,7 +3452,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 	<item name="armorSteelGloves"/>
 	<item name="armorSteelHelmet"/>
 	<item name="armorSwatHelmet" mods="modArmorHelmetLight" mod_chance=".2" prob=".4"/>
-	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="1"/>
+	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="0.2"/>
 </lootgroup>
 
 <lootgroup name="groupQuestArmor">
@@ -4108,7 +4108,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 	<item group="groupToolsTiered" prob="6"/>
 	<item group="groupRareToolsTiered" prob="3"/>
 	<item group="groupArmorScaled" prob="7"/>
-	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="1" prob="0.5"/>
+	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="0.2" prob="0.5"/>
 	<item group="groupApparelClothes" prob="6"/>
 	<item group="warmClothes" prob=".2"/>
 	<item group="groupAmmoRegular" count="2" prob="20"/>
@@ -4136,7 +4136,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 	<item group="groupToolsTiered" prob="2.5"/>
 	<item group="groupRareToolsTiered" prob=".2"/>
 	<item group="groupArmorScaled" prob="3.75"/>
-	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="1" prob="0.5"/>
+	<item name="armorMiningHelmet" mods="modArmorHelmetLight" mod_chance="0.2" prob="0.5"/>
 	<item name="armorSwatHelmet" mods="modArmorHelmetLight" mod_chance=".2" prob="2.5"/>
 	<item group="groupApparelHazmat" prob="1.25"/>
 	<item group="groupApparelClothes" prob="2.5"/>
@@ -4166,7 +4166,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 	<item name="resourceForgedSteel" count="3,7" prob="1.25"/>
 	<item group="groupRareToolsTiered" prob=".2"/>
 	<item group="groupArmorScaled" prob="3.75"/>
-	<item name="armorSwatHelmet" mods="modArmorHelmetLight" mod_chance=".8" prob="2.5"/>
+	<item name="armorSwatHelmet" mods="modArmorHelmetLight" mod_chance=".2" prob="2.5"/>
 	<item group="groupApparelHazmat" prob="1.25"/>
 	<item group="groupAmmoRegular" count="3" prob="8"/>
 	<item group="groupWeaponsAllScaled" prob="14"/>
