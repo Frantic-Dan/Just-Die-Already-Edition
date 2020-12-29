@@ -568,7 +568,7 @@ tbnsew:
 	<property name="ImposterExclude" value="true"/>
 	<property name="LPHardnessScale" value="2"/>
 	<property name="Map.Color" value="110,95,49"/>
-	<drop event="Harvest" name="resourceOilShale" count="12" tag="oreWoodHarvest"/>
+	<drop event="Harvest" name="resourceOilShale" count="14" tag="oreWoodHarvest"/>
 	<drop event="Harvest" name="resourceRockSmall" count="4" tag="oreWoodHarvest"/>
 	<drop event="Destroy" count="0"/>
 	<drop event="Fall" name="resourceOilShale" count="24" prob="0.4" stick_chance="1"/>
@@ -21385,8 +21385,8 @@ NOT the TextureNumber.
 <block name="decoLargePetCage">
 	<property name="Extends" value="decoEntityPolymerMaster"/>
 	<property name="Model" value="Entities/OutdoorDecor/largePetCagePrefab"/>
-	<drop event="Harvest" name="resourceScrapPolymers" count="4" tag="allHarvest"/>
-	<drop event="Destroy" name="resourceScrapPolymers" count="1,2"/>
+	<drop event="Harvest" name="resourceScrapPolymers" count="3" tag="allHarvest"/>
+	<drop event="Destroy" name="resourceScrapPolymers" count="1"/>
 </block>
 
 <block name="decoMetalSlide">
