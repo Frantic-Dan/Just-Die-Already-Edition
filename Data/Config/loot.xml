@@ -3766,7 +3766,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 
 <!-- cars-->
 <lootcontainer id="19" size="7,4" sound_open="UseActions/open_vehicle" sound_close="UseActions/close_vehicle" open_time="4" loot_quality_template="qualBaseTemplate">
-	<item group="automotive+tools+junk" count="1,3"/>
+	<item group="automotive+tools+junk" count="1,2"/>
 </lootcontainer>
 
 <!-- frozen or refridgerated food, spoiled food -->
@@ -3874,7 +3874,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 </lootcontainer>
 
 <!-- military munitions ammo box -->
-<lootcontainer id="40" count="2,3" size="8,4" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" open_time="8" loot_quality_template="qualBaseTemplate">
+<lootcontainer id="40" count="2" size="8,4" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" open_time="8" loot_quality_template="qualBaseTemplate">
 	<item group="groupAmmoRegular" prob=".7" count="2"/>
 	<item group="groupWeaponsAllScaled" prob=".3"/>
 	<item group="groupModAllScaled" prob=".15"/>
@@ -4161,7 +4161,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 </lootcontainer>
 
 <!-- EntityLootContainerBoss, rare random drop off bosses -->
-<lootcontainer id="73" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+<lootcontainer id="73" count="2,3" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
 	<item group="booksRareOnlyScaled" prob="2.5"/>
 	<item name="resourceForgedSteel" count="3,7" prob="1.25"/>
 	<item group="groupRareToolsTiered" prob=".2"/>
@@ -4286,7 +4286,7 @@ if the loot entry for mods is empty then it will use the lootgroup mods and mod_
 
 <!-- car parts shipping crate -->
 <lootcontainer id="90" count="1,2" size="6,4" sound_open="UseActions/open_cardboard" sound_close="UseActions/close_cardboard" loot_quality_template="qualBaseTemplate">
-	<item name="resourceRepairKit" count="5,8" prob=".3"/>
+	<item name="resourceRepairKit" count="3,5" prob=".3"/>
 	<item group="vehiclePartsTiered" prob=".4"/>
 	<item group="groupToolsTiered" prob=".5"/>
 	<item group="groupRareToolsTiered" prob="0.1"/>
@@ -4416,10 +4416,10 @@ treasureTemplate
 <lootcontainer id="108" count="1" size="6,1" sound_open="UseActions/open_garbage" sound_close="silencefiller" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
 	<item group="groupAmmoPileLoot"/>
 </lootcontainer>
-<lootcontainer id="109" count="2,3" size="6,2" sound_open="UseActions/open_garbage" sound_close="silencefiller" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
+<lootcontainer id="109" count="2" size="6,2" sound_open="UseActions/open_garbage" sound_close="silencefiller" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
 	<item group="groupAmmoPileLoot"/>
 </lootcontainer>
-<lootcontainer id="110" count="3,4" size="6,3" sound_open="UseActions/open_garbage" sound_close="silencefiller" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
+<lootcontainer id="110" count="3" size="6,3" sound_open="UseActions/open_garbage" sound_close="silencefiller" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
 	<item group="groupAmmoPileLoot"/>
 </lootcontainer>
 
@@ -4496,7 +4496,7 @@ treasureTemplate
 </lootcontainer>
 
 <!-- cntHardenedChestSecure, hero, big, fancy chest -->
-<lootcontainer id="121" count="5,6" size="10,9" sound_open="UseActions/open_safe" sound_close="UseActions/close_safe" open_time="1" loot_quality_template="qualPlus1Template">
+<lootcontainer id="121" count="4,5" size="10,9" sound_open="UseActions/open_safe" sound_close="UseActions/close_safe" open_time="1" loot_quality_template="qualPlus1Template">
 	<item group="groupHeroChestLoot"/>
 </lootcontainer>
 
@@ -4512,7 +4512,7 @@ treasureTemplate
 </lootcontainer>
 
 <!-- cntRollingToolBoxClosed -->
-<lootcontainer id="124" count="1,2" size="6,2" sound_open="UseActions/open_toolchest" sound_close="UseActions/close_toolchest" loot_quality_template="qualBaseTemplate">
+<lootcontainer id="124" count="1" size="6,2" sound_open="UseActions/open_toolchest" sound_close="UseActions/close_toolchest" loot_quality_template="qualBaseTemplate">
 	<item name="resourceNail" count="10,20"/>
 	<item name="resourceMechanicalParts" count="2,3"/>
 	<item name="resourceScrapPolymers" count="2,4" prob="0.4"/>
@@ -4531,7 +4531,7 @@ treasureTemplate
 
 
 <!-- cntToolBoxClosed -->
-<lootcontainer id="125" count="1,2" size="6,2" sound_open="UseActions/open_toolbox" sound_close="UseActions/close_toolbox" loot_quality_template="qualBaseTemplate">
+<lootcontainer id="125" count="1" size="6,2" sound_open="UseActions/open_toolbox" sound_close="UseActions/close_toolbox" loot_quality_template="qualBaseTemplate">
 	<item name="resourceNail" count="10,20"/>
 	<item name="resourceMechanicalParts" count="2,3"/>
 	<item name="resourceScrapPolymers" count="2,4" prob="0.4"/>
