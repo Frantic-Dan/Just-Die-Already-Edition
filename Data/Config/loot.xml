@@ -1907,7 +1907,7 @@ The overall plan for loot distribution:
 </lootgroup>
 
 <lootgroup name="modArmorT1">
-	<item name="modArmorHelmetLight"/>
+	<item name="modArmorHelmetLight" prob=".4"/>
 	<item name="modArmorInsulatedLiner"/>
 	<item name="modArmorCoolingMesh"/>
 	<item name="modArmorPlatingBasic"/>
@@ -2137,7 +2137,7 @@ The overall plan for loot distribution:
 	<item name="drugHerbalAntibioticsSchematic"/>
 	<item name="modArmorBandolierSchematic"/>
 	<item name="modArmorDoubleStoragePocketSchematic"/>
-	<item name="modArmorHelmetLightSchematic"/>
+	<item name="modArmorHelmetLightSchematic" prob=".4"/>
 	<item name="modFuelTankSmallSchematic"/>
 	<item name="modGunBipodSchematic"/>
 	<item name="modGunBowArrowRestSchematic"/>
